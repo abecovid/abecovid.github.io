@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>ABE e COVID-19</title>
+    
+    
+    <description>Ações e Desafios em Período de Pandemia</description>
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>ABE e COVID-19 - Ações e Desafios - Parte 01</title>
+        <description>
+          Each post also has a subtitle - 
+          No dia 14 de maio de 2020, a Associação Brasileira de Estatística (ABE) deu início ao ciclo de webinars que contou com a participação dos Profs. Drs. Carlos Henrique de Brito Cruz (UNICAMP), Marcelo Medeiros (PUC-Rio) e Benilton Carvalho (UNICAMP). Nesta oportunidade foram apresentadas questões relativas à pandemia de COVID-19...
+        </description>
+        <pubDate>Thu, 14 May 2020 00:00:00 -0300</pubDate>
+        <link>http://localhost:4000/2020-05-14-webinar-01/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-14-webinar-01/</guid>
+      </item>
+    
+  </channel>
+</rss>
