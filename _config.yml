@@ -15,7 +15,7 @@ navbar-links:
   Sobre: "sobre"
   Agenda: "agenda"
   Recursos:
-    - Vídeos:
+    - Vídeos: "https://www.youtube.com/channel/UC2nxl5h2azN4GYlHpd0RPgQ/"
     - Artigos:
     - Tutoriais:
     - Iniciativas:
