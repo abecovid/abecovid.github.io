@@ -14,10 +14,10 @@ author: Benilton S Carvalho
 navbar-links:
   Sobre: "sobre"
   Agenda: "agenda"
+  Apresentações:
+    - Rob Tibshirani: "talks/tibshirani.pdf"
   Recursos:
     - Vídeos: "https://www.youtube.com/channel/UC2nxl5h2azN4GYlHpd0RPgQ/"
-    - Apresentações:
-        - Rob Tibshirani: "talks/tibshirani.pdf"
   ABE: "https://www.redeabe.org.br/"
 
 # --- Logo --- #
